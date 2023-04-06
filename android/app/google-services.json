@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748368164925",
+    "project_id": "marmita-a24fd",
+    "storage_bucket": "marmita-a24fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748368164925:android:1d6699903f9a253b665254",
+        "android_client_info": {
+          "package_name": "com.example.marmita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748368164925-tsoqgndcrnspe2gvmtlu3q7j1llbips3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6srErR9Uu8B8RsOD7t5lg6iOV5asBLvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748368164925-tsoqgndcrnspe2gvmtlu3q7j1llbips3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
